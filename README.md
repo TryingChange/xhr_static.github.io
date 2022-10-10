@@ -1,1 +1,1 @@
-# xhr_static.github.io
+# Esoécie de "scroll infinito" em xhr e comunicação assíncrona.
