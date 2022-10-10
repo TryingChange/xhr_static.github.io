@@ -1,1 +1,1 @@
-# Esoécie de "scroll infinito" em xhr e comunicação assíncrona.
+# Espécie de "scroll infinito" em xhr e comunicação assíncrona.
